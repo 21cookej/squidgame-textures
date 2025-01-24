@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "side",
-		"1": "plain",
-		"particle": "side"
+		"0": "blocks/side",
+		"1": "blocks/plain",
+		"particle": "blocks/side"
 	},
 	"elements": [
 		{
