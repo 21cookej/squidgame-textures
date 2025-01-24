@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "block/blocks/skirt",
-		"2": "block/blocks/skirt2",
-		"particle": "block/blocks/skirt"
+		"0": "blocks/skirt",
+		"2": "blocks/skirt2",
+		"particle": "blocks/skirt"
 	},
 	"elements": [
 		{
