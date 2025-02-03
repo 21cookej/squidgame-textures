@@ -1,0 +1,8 @@
+{
+    "block.note_block.harp": {
+        "sounds": ["block/note_block/harp"]
+    },
+    "block.note_block.bass": {
+        "sounds": ["block/note_block/bass"]
+    }
+}
